@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Tesla">
+    <file alias="qmldir">/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/Tesla/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/appTesla_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/sal/src/qt/monty/Tesla",
+	"CMAKE_SOURCE_DIR" : "/Users/sal/src/qt/monty/Tesla",
+	"INCLUDE_DIR" : "/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/appTesla_autogen/include",
+	"INPUTS" : [ "/Users/sal/src/qt/monty/Tesla/resources/database/teslaDB.db" ],
+	"LOCK_FILE" : "/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/appTesla_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/Users/sal/Qt/6.7.2/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/appTesla_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/sal/src/qt/monty/Tesla/resources.qrc",
+	"VERBOSITY" : 0
+}

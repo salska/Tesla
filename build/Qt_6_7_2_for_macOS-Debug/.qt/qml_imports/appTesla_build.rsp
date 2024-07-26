@@ -1,0 +1,14 @@
+-rootPath
+/Users/sal/src/qt/monty/Tesla
+-cmake-output
+-output-file
+/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/.qt/qml_imports/appTesla_build.cmake
+-importPath
+/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/Tesla
+-importPath
+/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug
+-importPath
+/Users/sal/Qt/6.7.2/macos/./qml
+-qrcFiles
+/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qmake_Tesla.qrc
+/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/appTesla_raw_qml_0.qrc

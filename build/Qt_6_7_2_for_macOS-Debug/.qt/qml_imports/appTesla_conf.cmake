@@ -1,0 +1,13 @@
+set(qml_import_scanner_imports_count 11)
+set(qml_import_scanner_import_0 "CLASSNAME;QtQuick2Plugin;LINKTARGET;Qt6::qtquick2plugin;NAME;QtQuick;PATH;/Users/sal/Qt/6.7.2/macos/qml/QtQuick;PLUGIN;qtquick2plugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQuick/;RELATIVEPATH;QtQuick;TYPE;module;")
+set(qml_import_scanner_import_1 "CLASSNAME;QtQmlMetaPlugin;LINKTARGET;Qt6::QmlMeta;NAME;QtQml;PATH;/Users/sal/Qt/6.7.2/macos/qml/QtQml;PLUGIN;qmlmetaplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQml/;RELATIVEPATH;QtQml;TYPE;module;")
+set(qml_import_scanner_import_2 "CLASSNAME;QtQmlPlugin;LINKTARGET;Qt6::qmlplugin;NAME;QtQml.Base;PATH;/Users/sal/Qt/6.7.2/macos/qml/QtQml/Base;PLUGIN;qmlplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQml/Base/;RELATIVEPATH;QtQml/Base;TYPE;module;")
+set(qml_import_scanner_import_3 "CLASSNAME;QtQmlModelsPlugin;LINKTARGET;Qt6::modelsplugin;NAME;QtQml.Models;PATH;/Users/sal/Qt/6.7.2/macos/qml/QtQml/Models;PLUGIN;modelsplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQml/Models/;RELATIVEPATH;QtQml/Models;TYPE;module;")
+set(qml_import_scanner_import_4 "CLASSNAME;QtQmlWorkerScriptPlugin;LINKTARGET;Qt6::workerscriptplugin;NAME;QtQml.WorkerScript;PATH;/Users/sal/Qt/6.7.2/macos/qml/QtQml/WorkerScript;PLUGIN;workerscriptplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQml/WorkerScript/;RELATIVEPATH;QtQml/WorkerScript;TYPE;module;")
+set(qml_import_scanner_import_5 "NAME;QML;TYPE;module;")
+set(qml_import_scanner_import_6 "NAME;ui/LeftBar;PATH;/Users/sal/src/qt/monty/Tesla/Main.qml/ui/LeftBar;TYPE;directory;")
+set(qml_import_scanner_import_7 "NAME;ui/BottomBar;PATH;/Users/sal/src/qt/monty/Tesla/Main.qml/ui/BottomBar;TYPE;directory;")
+set(qml_import_scanner_import_8 "COMPONENTS;/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/Tesla/Main.qml;/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/Tesla/ui/BottomBar/BottomBar.qml;/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/Tesla/ui/LeftBar/LeftBar.qml;NAME;Tesla;PATH;/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/Tesla;PREFER;:/qt/qml/Tesla/;RELATIVEPATH;Tesla;TYPE;module;")
+set(qml_import_scanner_import_9 "NAME;ui/LeftBar;PATH;/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/Tesla/Main.qml/ui/LeftBar;TYPE;directory;")
+set(qml_import_scanner_import_10 "NAME;ui/BottomBar;PATH;/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/Tesla/Main.qml/ui/BottomBar;TYPE;directory;")
+

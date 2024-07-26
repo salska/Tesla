@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "TitleModel",
+            "object": true,
+            "qualifiedClassName": "TitleModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "TitleModel.h",
+    "outputRevision": 68
+}

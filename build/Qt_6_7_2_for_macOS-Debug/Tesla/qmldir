@@ -1,0 +1,7 @@
+module Tesla
+typeinfo appTesla.qmltypes
+prefer :/qt/qml/Tesla/
+Main 1.0 Main.qml
+BottomBar 1.0 ui/BottomBar/BottomBar.qml
+LeftBar 1.0 ui/LeftBar/LeftBar.qml
+

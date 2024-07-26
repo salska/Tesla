@@ -1,0 +1,7 @@
+--resource
+/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qmake_Tesla.qrc
+--resource
+/Users/sal/src/qt/monty/Tesla/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/appTesla_raw_qml_0.qrc
+/qt/qml/Tesla/Main.qml
+/qt/qml/Tesla/ui/BottomBar/BottomBar.qml
+/qt/qml/Tesla/ui/LeftBar/LeftBar.qml

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Tesla/">
+    <file alias="Main.qml">/Users/sal/src/qt/monty/Tesla/Main.qml</file>
+    <file alias="ui/BottomBar/BottomBar.qml">/Users/sal/src/qt/monty/Tesla/ui/BottomBar/BottomBar.qml</file>
+    <file alias="ui/LeftBar/LeftBar.qml">/Users/sal/src/qt/monty/Tesla/ui/LeftBar/LeftBar.qml</file>
+  </qresource>
+</RCC>
+
